@@ -1,0 +1,58 @@
+header{
+    background-color: rgb(44, 0, 163);
+}
+header h2 {
+    color: azure;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.clock-part{
+  width: 400px;
+  margin: 0 auto;
+  background-color: rgb(0, 132, 255);
+  justify-content: center;
+  padding: 20px;
+  color: white;
+  letter-spacing: 1px;
+  border-radius: 10px;
+}
+#hour, #min, #sec{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hour-sec.com-md-4.p-4.text-center {
+    background: #0d151d;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 0px #00dcff;
+}
+.wrapper-cl{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    box-shadow: -5px 5px 1px 1px #252525;
+}
+.wrapper-cl div.row{
+    background-color: rgb(46, 46, 46);
+    margin: 0px 10px;
+    justify-content: center;
+    padding: 10px;
+    padding-top: 30px;
+    border-radius: 15px;
+}
+#houR, #minute, #second{
+    font-family: orbitron;
+    font-size: 45px;
+    font-weight: 300;
+}
+h3.casio.text-center, h3.title {
+    font-size: 18px;
+    font-family: 'Orbitron';
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
