@@ -14,6 +14,7 @@ function newTime(){
     
     myHr = myHr % 12;
     myHr = myHr ? myHr:12;
+    myHr = myHr < 10 ? '0' + myHr:myHr;
     myMin = myMin < 10 ? '0'+myMin:myMin;
     mySec = mySec<10?'0'+mySec:mySec;
 

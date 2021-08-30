@@ -45,13 +45,13 @@ header h2 {
     border-radius: 15px;
 }
 #houR, #minute, #second{
-    font-family: orbitron;
+    font-family: 'Share Tech Mono', monospace;
     font-size: 45px;
     font-weight: 300;
 }
 h3.casio.text-center, h3.title {
     font-size: 18px;
-    font-family: 'Orbitron';
+    font-family: 'Share Tech Mono', monospace;
     font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 2px;
